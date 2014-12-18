@@ -1,0 +1,10 @@
+{
+	"name": "flexslider",
+	"version": "2.2",
+	"main": "./jquery.flexslider.js",
+	"description": "FlexSlider",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com:mbman/FlexSlider.git"
+	}
+}
